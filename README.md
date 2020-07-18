@@ -1,1 +1,1 @@
-# httpclassification-with-word-embeddings-codealong
+# classification-with-word-embeddings-codealong
